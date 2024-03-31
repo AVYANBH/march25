@@ -2,6 +2,7 @@ A line of content
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 A line of content
 >>>>>>> 2eccdfb (Contributing second file to commit)
@@ -10,3 +11,6 @@ A line of content
 >>>>>>> 2eccdfb (Contributing second file to commit)
 =======
 >>>>>>> e65ee96 (Contributing a file)
+=======
+A line of content
+>>>>>>> 2eccdfb (Contributing second file to commit)
