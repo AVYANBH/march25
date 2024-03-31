@@ -1,1 +1,5 @@
 A line of content
+<<<<<<< HEAD
+=======
+A line of content
+>>>>>>> 2eccdfb (Contributing second file to commit)
